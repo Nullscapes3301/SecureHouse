@@ -36,7 +36,7 @@ void loop() {
     if (status == 1) {
 
         printf(
-            scanf("pot");
+            char(scanf("pot"))
         );
 
         if ( scanf("bot") == 1 ) {
